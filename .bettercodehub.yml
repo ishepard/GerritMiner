@@ -1,0 +1,5 @@
+exclude:
+- /deps/mysql-connector-java-5.1.41/src/.*
+component_depth: 1
+languages:
+- java
